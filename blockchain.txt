@@ -1,0 +1,9 @@
+BlockChain: A blockchain is a public ledger of information collected 
+through a network that sits on top of the internet. It is how this 
+information is recorded that gives blockchain its groundbreaking 
+potential. The technology can be used to develop blockchain 
+applications, such as social networks, messengers, games, exchanges, 
+storage platforms, voting systems, prediction markets, online shops and 
+much more. In this sense, it is similar to the internet, which is why 
+some have dubbed it “The Internet 3.0”.
+
